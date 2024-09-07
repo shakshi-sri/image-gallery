@@ -1,37 +1,38 @@
-header{
-	font-size: 30px;
-	font-family: "Libre Baskerville", serif; 
-	font-weight: 400;
-  font-style: normal;
-  text-align: center;
-}
-p{
-	font-size: 24px;
+header {
+    font-size: 30px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
 }
 
-main{
-	margin-left: 100%px;
+p {
+    font-size: 24px;
+}
+
+main {
+    margin-left: 100%px;
 }
 
 .box img {
-	width: 1050px;
-	height: 400px;
-	object-fit: contain;
-	display: block;
-	vertical-align: top;
-	float: left;
-	width: 22%;
-	padding: 3px;
-	padding-left: 3px;
+    width: 1050px;
+    height: 400px;
+    object-fit: contain;
+    display: block;
+    vertical-align: top;
+    float: left;
+    width: 22%;
+    padding: 3px;
+    padding-left: 3px;
 }
 
-img{
-	width: 100%;
+img {
+    width: 100%;
     transition: all 1s ease-in-out;
 
 }
 
-img:hover{
+img:hover {
     transform: scale(1.2);
     transition: all 1s ease-in-out;
 }
