@@ -27,4 +27,11 @@ main{
 
 img{
 	width: 100%;
+    transition: all 1s ease-in-out;
+
+}
+
+img:hover{
+    transform: scale(1.2);
+    transition: all 1s ease-in-out;
 }
